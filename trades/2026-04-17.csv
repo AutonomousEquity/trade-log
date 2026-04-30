@@ -1,3 +1,0 @@
-ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
-FSLY,sell,84,25.11,,-57.96,2026-04-16 13:25:15,2026-04-17,1
-RMSG,buy,386,2.88,2.7086,-66.1604,2026-04-17 13:25:08,2026-04-17,0

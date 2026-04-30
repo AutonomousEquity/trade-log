@@ -1,3 +1,0 @@
-ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
-AMTX,sell,845,2.42,2.55,-109.85,2026-04-16 13:25:15,2026-04-20,2
-HCAI,buy,195,4.82,5.48,128.7,2026-04-20 16:40:27,2026-04-20,1
