@@ -1,4 +1,0 @@
-ticker,side,qty,entry_price,strategy_id,regime,opened_at,account
-AAPL,buy,1,,13,trending_bear,2026-03-30 20:04:38,personal
-SPY,sell,99,,13,trending_bear,2026-03-30 20:01:07,personal
-SPY,sell,99,,13,trending_bear,2026-03-30 19:58:27,personal

@@ -1,4 +1,0 @@
-ticker,side,qty,entry_price,exit_price,pnl,strategy_id,regime,opened_at,closed_at,hold_days,account
-FSLY,sell,84,25.11,,-57.96,23,choppy,2026-04-16 13:25:15,2026-04-17,1,c2
-FSLY,sell,97,25.11,,-58.2,23,choppy,2026-04-16 13:25:13,2026-04-17,1,personal
-RMSG,buy,386,2.88,2.7086,-66.1604,23,choppy,2026-04-17 13:25:08,2026-04-17,0,c2
