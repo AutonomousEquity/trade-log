@@ -1,0 +1,2 @@
+ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
+DARE,sell,576,2.1,2.2,-57.6,2026-04-24 16:00:51,2026-04-27,1
