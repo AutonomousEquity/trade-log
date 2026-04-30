@@ -1,0 +1,16 @@
+ticker,side,qty,entry_price,strategy_id,regime,opened_at,account
+AMTX,sell,845,2.42,23,choppy,2026-04-16 13:25:15,c2
+AMTX,sell,976,2.42,23,choppy,2026-04-16 13:25:13,personal
+BIRD,buy,38,11.16,24,choppy,2026-04-16 13:25:13,personal
+BIRD,buy,33,11.16,24,choppy,2026-04-16 13:25:16,c2
+BIRD,buy,33,12.1409,15,choppy,2026-04-16 13:25:16,c2
+BIRD,buy,38,12.14,15,choppy,2026-04-16 13:25:14,personal
+ONFO,buy,380,1.27,24,choppy,2026-04-17 13:25:08,personal
+ONFO,buy,292,1.27,24,choppy,2026-04-17 13:25:08,c2
+QNCX,buy,457,1.33,15,choppy,2026-04-16 13:25:16,c2
+QNCX,buy,528,1.33,15,choppy,2026-04-16 13:25:14,personal
+RMSG,buy,363,2.57,24,choppy,2026-04-16 13:25:13,personal
+RMSG,buy,171,2.93,24,choppy,2026-04-17 13:25:08,c2
+WNW,buy,178,4.34,15,choppy,2026-04-16 13:25:16,c2
+WNW,buy,178,4.24,24,choppy,2026-04-16 13:25:16,c2
+WNW,buy,205,4.24,24,choppy,2026-04-16 13:25:13,personal

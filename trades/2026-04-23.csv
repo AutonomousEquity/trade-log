@@ -1,0 +1,15 @@
+ticker,side,qty,entry_price,exit_price,pnl,strategy_id,regime,opened_at,closed_at,hold_days,account
+CMCT,buy,156,5.7,5.25,-70.2,20,trending_bull,2026-04-23 13:59:34,2026-04-23,1,c2
+CMCT,buy,182,5.7,5.25,-81.9,20,trending_bull,2026-04-23 13:59:26,2026-04-23,1,personal
+HUBC,buy,190,2.24,2.0,-45.6,24,choppy,2026-04-22 16:45:52,2026-04-23,1,personal
+HUBC,buy,411,2.03,,0.0,20,trending_bull,2026-04-23 13:59:32,2026-04-23,1,c2
+HUBC,buy,478,2.03,,0.0,20,trending_bull,2026-04-23 13:59:26,2026-04-23,1,personal
+PBM,buy,103,8.85,8.18,-69.01,22,trending_bull,2026-04-23 13:59:27,2026-04-23,1,c2
+TDIC,buy,613,1.39,1.28,-67.43,12,trending_bull,2026-04-23 13:59:27,2026-04-23,0,c2
+TDIC,buy,857,1.39,1.28,-94.27,12,trending_bull,2026-04-23 13:59:22,2026-04-23,0,personal
+TDIC,buy,714,1.39,1.28,-78.54,21,trending_bull,2026-04-23 13:59:22,2026-04-23,0,personal
+TDIC,buy,613,1.39,1.28,-67.43,21,trending_bull,2026-04-23 13:59:27,2026-04-23,0,c2
+ZNTL,sell,698,3.82,4.01,-132.62,23,choppy,2026-04-22 16:45:52,2026-04-23,1,c2
+ZNTL,sell,1085,3.82,4.01,-206.15,23,choppy,2026-04-22 16:45:52,2026-04-23,1,personal
+ZSPC,buy,787,0.6035,,0.0,20,trending_bull,2026-04-23 13:59:31,2026-04-23,1,c2
+ZSPC,buy,917,0.6035,,0.0,20,trending_bull,2026-04-23 13:59:26,2026-04-23,1,personal

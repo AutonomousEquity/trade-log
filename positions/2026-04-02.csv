@@ -1,0 +1,11 @@
+ticker,side,qty,entry_price,strategy_id,regime,opened_at,account
+AAPL,buy,1,,13,trending_bear,2026-03-30 20:04:38,personal
+BUR,sell,145,4.13,13,trending_bear,2026-04-02 14:06:45,personal
+DHLGY,sell,36,26.14,13,trending_bear,2026-04-02 13:52:59,personal
+DHLGY,sell,22,26.18,13,trending_bear,2026-04-02 14:06:45,personal
+ORIC,sell,82,8.23,13,trending_bear,2026-04-02 14:06:45,personal
+PEPG,sell,574,1.7,13,trending_bear,2026-04-02 13:52:59,personal
+PEPG,sell,354,1.71,13,trending_bear,2026-04-02 14:06:45,personal
+SPY,sell,99,,13,trending_bear,2026-03-30 20:01:07,personal
+SPY,sell,99,,13,trending_bear,2026-03-30 19:58:27,personal
+WVE,sell,90,6.82,13,trending_bear,2026-04-02 14:06:45,personal

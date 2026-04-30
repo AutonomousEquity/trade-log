@@ -1,0 +1,5 @@
+ticker,side,qty,entry_price,exit_price,pnl,strategy_id,regime,opened_at,closed_at,hold_days,account
+AMTX,sell,845,2.42,2.55,-109.85,23,choppy,2026-04-16 13:25:15,2026-04-20,2,c2
+AMTX,sell,976,2.42,2.5482,-125.1232,23,choppy,2026-04-16 13:25:13,2026-04-20,2,personal
+HCAI,buy,195,4.82,5.48,128.7,20,trending_bull,2026-04-20 16:40:27,2026-04-20,1,c2
+HCAI,buy,227,4.82,5.48,149.82,20,trending_bull,2026-04-20 16:40:03,2026-04-20,1,personal
