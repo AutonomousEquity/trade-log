@@ -1,0 +1,3 @@
+ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
+INFQ,buy,796,16.7686,,,2026-05-29 20:11:07,2026-05-30,0
+UMAC,buy,906,27.0461,,,2026-05-29 20:11:07,2026-05-30,0
