@@ -1,0 +1,2 @@
+ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
+SG,sell,12129,7.56,7.51,606.45,2026-06-08 15:49:47,2026-06-08,1
