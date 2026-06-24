@@ -1,0 +1,2 @@
+ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
+NVCR,sell,6407,13.49,14.73,-7944.68,2026-06-23 12:15:58,2026-06-24,1
