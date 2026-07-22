@@ -1,0 +1,2 @@
+ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
+CNMD,buy,43,44.94,41.24,-159.1,2026-07-16 16:00:58,2026-07-22,4
