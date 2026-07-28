@@ -1,0 +1,2 @@
+ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
+CDNA,buy,140,38.8219,35.7891,-2389.8464,2026-07-17 12:15:59,2026-07-28,7
