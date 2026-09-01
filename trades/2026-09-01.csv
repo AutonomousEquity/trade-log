@@ -1,0 +1,3 @@
+ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
+HTFL,buy,744,46.43,50.53,3050.4,2026-08-19 12:15:43,2026-09-01,10
+WEAV,buy,3760,7.3,7.3,0.0,2026-08-19 12:15:43,2026-09-01,10
