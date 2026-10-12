@@ -1,0 +1,3 @@
+ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
+MTDR,sell,506,51.96,55.63,-1857.02,2026-09-23 12:15:33,2026-10-12,3
+MTDR,buy,506,55.63,55.0,-318.78,2026-10-12 15:31:23,2026-10-12,1
