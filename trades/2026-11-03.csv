@@ -1,0 +1,2 @@
+ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
+VRDN,buy,2062,23.1436,25.06,3951.6168,2026-10-22 12:15:33,2026-11-03,9
