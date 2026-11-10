@@ -1,0 +1,2 @@
+ticker,side,qty,entry_price,exit_price,pnl,opened_at,closed_at,hold_days
+NOW,sell,182,106.83,98.8947,1444.2246,2026-11-02 13:15:33,2026-11-10,7
